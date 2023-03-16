@@ -1,6 +1,6 @@
 # TIME TRAVEL WITH SPOTIFY MUSIC
 
-![Spotify Playlist](Image\spotify_playlist.png)
+![Spotify Playlist](https://github.com/AyushSrivastava27/Musical-Time-Machine/blob/main/Image/spotify_playlist.png)
 
 
 ## What do You Need to Run This?
